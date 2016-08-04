@@ -1,0 +1,22 @@
+_repo: The-Tarn-of-Eternity_822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tymon, Frank
+    gutenberg_agent_id: '430'
+    url: http://www.gutenberg.org/2009/agents/430
+description: ''
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '822'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'American fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Tarn of Eternity
+url: http://www.gutenberg.org/ebooks/822
