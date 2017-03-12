@@ -1,11 +1,16 @@
 _repo: The-Tarn-of-Eternity_822
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tymon, Frank
     gutenberg_agent_id: '430'
     url: http://www.gutenberg.org/2009/agents/430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/822#The-Tarn-of-Eternity
 gutenberg_issued: '1997-02-01'
 gutenberg_type: Text
 identifiers:
